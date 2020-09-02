@@ -1,0 +1,60 @@
+.box1
+{
+ float:left;
+  width:30%;
+  height:30px;
+  margin:60px 15px 15px 30px;
+  text-align: left;
+  background-color: grey;
+  color: white;
+}
+.box2
+{
+  float: right;
+  width:36%;
+  height:30px;
+  margin:60px 170px 15px auto;
+  background-color:#d1eaa3;
+  border:0;
+}
+.mainbox{
+  background-color: grey;
+  width:650px;
+  height:450px;
+  border: 27px solid black;
+  margin-top:30px ;
+  margin-left: 280px;
+}
+.box3
+{
+  float:left;
+   width:30%;
+   height:30px;
+   margin:auto 15px 15px 30px;
+   text-align: left;
+   background-color: grey;
+   color: white;
+}
+.box4
+{
+  float: right;
+  width:36%;
+  height:30px;
+  margin:auto 170px 15px auto;
+  background-color:#d1eaa3;
+  border:0;
+
+}
+.lastbutton
+{
+  width:17%;
+  margin-left: 30px;
+  height: 37px;
+  background-color: white;
+ color: black;
+ border: 3px solid #e7e7e7;
+}
+.lastbutton:hover
+{
+  background-color: #e7e7e7;
+}
